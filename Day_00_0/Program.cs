@@ -4,7 +4,7 @@
    {
       static void Main(string[] args)
       {
-         string[] inputLines = File.ReadAllLines("input.txt");
+         string[] allLines = File.ReadAllLines("input.txt");
       }
    }
 }
